@@ -21,7 +21,7 @@ Preparing for intern interview
 
 | Course/Project                                               | Lab                   | Brief                                                        |
 | ------------------------------------------------------------ | --------------------- | ------------------------------------------------------------ |
-| `UW CSE452` [*dslabs*](https://github.com/Fengryjs/UW-dslabs) | Lab(4/4)              | DSLabs is a new framework for creating, testing, model checking, visualizing, and debugging distributed systems lab assignments. |
+| `UW CSE452` [*dslabs(private)*](https://github.com/Fengryjs/UW-dslabs) | Lab(4/4)              | DSLabs is a new framework for creating, testing, model checking, visualizing, and debugging distributed systems lab assignments. |
 | `MIT 6.824` [*Raft*](https://github.com/Fengryjs/MIT6.824-Raft) | Lab(4/4) & Challenges |                                                              |
 | `UCB CS186` [*rookie-database*](https://github.com/Fengryjs/UCB-cs186-sp24) | Project(6/6)          | In the assignments of this class, you will be adding support for B+ tree indices, efficient join algorithms, query optimization, multigranularity locking to support concurrent execution of transactions, and database recovery. |
 
@@ -29,7 +29,7 @@ Preparing for intern interview
 
 [![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=java&logoColor=white)](https://www.oracle.com/java/) [![Go](https://img.shields.io/badge/GoLang-%2300ADD8?logo=go&logoColor=white)](https://go.dev/) [![Python](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white)](https://www.python.org/)  [![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?&logo=Vue.js&logoColor=white)](https://vuejs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&username=Fengryjs&layout=compact&exclude_repo=Twin_Cities_Chronicles&hide_border=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&username=Fengryjs&layout=compact&exclude_repo=Twin_Cities_Chronicles&hide_border=true&show_icons=true&include_all_commits=true)
 
 ## 📊 GitHub Commit
 
