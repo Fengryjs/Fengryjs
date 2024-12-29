@@ -29,8 +29,9 @@ Preparing for intern interview
 
 [![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=java&logoColor=white)](https://www.oracle.com/java/) [![Go](https://img.shields.io/badge/GoLang-%2300ADD8?logo=go&logoColor=white)](https://go.dev/) [![Python](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white)](https://www.python.org/)  [![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?&logo=Vue.js&logoColor=white)](https://vuejs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-<details>   <summary>查看我在 GitHub 上的语言统计</summary>   <a href="https://github.com/Fengryjs">     <img src="https://github-readme-stats.herokuapp.com/top-langs/?username=Fengryjs&layout=compact" alt="语言统计图表" />   </a> </details>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fengryjs&layout=compact)
 
 ## 📊 GitHub Commit
 
-![代码提交活跃度徽章](https://github-readme-activity-graph.cyclic.app/graph?username=Fengryjs)
+[[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fengryjs&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
