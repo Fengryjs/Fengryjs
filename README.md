@@ -1,4 +1,4 @@
-# Fengyjs- GitHub Profile
+# Fengryjs- GitHub Profile
 
 ## 👋 Hello!
 
