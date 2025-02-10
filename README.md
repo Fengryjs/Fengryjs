@@ -17,10 +17,16 @@ Welcome to my GitHub profile！
 
 Preparing for intern interview
 
+### 👍 Contact Me
+
+* QQ:1285751981
+* WeChat:15251094219
+
 ## 💼 History Project
 
 | Course/Project                                               | Lab                   | Brief                                                        |
 | ------------------------------------------------------------ | --------------------- | ------------------------------------------------------------ |
+| GaTech OMSCS CS7210                                          | Lab(4/4)              | Distribute Computing，Same as UW CSE452                      |
 | `UW CSE452` [*dslabs(private)*](https://github.com/Fengryjs/UW-dslabs) | Lab(4/4)              | DSLabs is a new framework for creating, testing, model checking, visualizing, and debugging distributed systems lab assignments. |
 | `MIT 6.824` [*Raft*](https://github.com/Fengryjs/MIT6.824-Raft) | Lab(4/4) & Challenges |                                                              |
 | `UCB CS186` [*rookie-database*](https://github.com/Fengryjs/UCB-cs186-sp24) | Project(6/6)          | In the assignments of this class, you will be adding support for B+ tree indices, efficient join algorithms, query optimization, multigranularity locking to support concurrent execution of transactions, and database recovery. |
